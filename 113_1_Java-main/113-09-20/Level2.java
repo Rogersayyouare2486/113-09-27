@@ -23,6 +23,6 @@ public class Level2 {
             default: 
                 level = 'E';
         }
-        System.out.printf("±o¤Àµ¥¯Å¡G%c%n", level);
+        System.out.printf("å¾—åˆ†ç­‰ç´š%c%n", level);
     }
 }
